@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 ->
 hi,thenihao
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JN-theone)](https://github.com/JN-theone/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JN-theone)](https://github.com/anuraghazra/github-readme-stats)
